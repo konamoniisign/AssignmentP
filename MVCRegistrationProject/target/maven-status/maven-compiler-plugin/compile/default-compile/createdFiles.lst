@@ -1,0 +1,8 @@
+com\springMVCRegistration\Controller\RegisterPageController.class
+com\springMVCRegistration\Config\RegisterPageConfig.class
+com\springMVCRegistration\Intializer\WebIntializer.class
+com\springMVCRegistration\DTO\api\UserRegisterPageDTO.class
+com\springMVCRegistration\Controller\SecurityClass.class
+com\springMVCRegistration\Config\SecurityIntializer.class
+com\springMVCRegistration\Config\MySecurityConfig.class
+com\springMVCRegistration\filters\MySecurutyFilters.class
